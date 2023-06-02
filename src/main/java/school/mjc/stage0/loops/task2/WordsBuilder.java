@@ -11,6 +11,6 @@ public class WordsBuilder {
             index++;
         }
 
-        System.out.println(phrase);
+        System.out.print(phrase);
     }
 }
